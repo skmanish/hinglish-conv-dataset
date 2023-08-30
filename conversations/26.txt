@@ -1,0 +1,21 @@
+Rahul: Hey Riya! How's it going?
+Riya: Hey Rahul! Sab theek hai. You tell me, how's everything with you?
+Rahul: Everything's great, Riya! Just busy with college assignments. Kya kar rahi ho?
+Riya: Same here, Rahul! Mann nahi lag raha hai padhne ka. Any study hacks to make it interesting?
+Rahul: Haan, Riya! I recently started using mind maps for note-taking. They're amazing! Tujhe kuch tips chahiye?
+Riya: Haan, haan! Please batao. Mind maps kaise banate hain?
+Rahul: Simple hai, Riya. Ek paper mein topic likho and uske aas paas sabhi connected points ko likhte jao. Visual representation makes learning easier!
+Riya: Sounds interesting, Rahul. I'll definitely try it. By the way, koi favorite note-taking app batao?
+Rahul: Definitely Evernote! You can sync your notes across all devices and even add reminders to them. Sab kuch organized rakhne mein madad karta hai.
+Riya: Oh, that sounds so useful, Rahul! I'll download it right away. Koi aur app suggest kar sakte ho?
+Rahul: Google Keep is also a great option, Riya. It has a user-friendly interface and you can color code your notes too.
+Riya: Wow, that's great! Tumhara choice kaafi accha hai, Rahul. Thanks for the suggestions.
+Rahul: You're welcome, Riya! Mujhe pata hai tu iska acche se use karegi.
+Riya: Of course, karungi! By the way, tujhe music sunte samay padhna accha lagta hai?
+Rahul: Haan, bilkul! Soft instrumental music sunne se concentrate karna asaan ho jata hai. Tujhe bhi acha lagta hai?
+Riya: Haan, mujhe bhi accha lagta hai. Kabhi-kabhi toh gaana bhi gaate hain.
+Rahul: Really? Then maybe we should study together sometime, Riya. Tu meri productivity ko badha sakti hai.
+Riya: That sounds like a plan, Rahul. Milte hain library mein kal?
+Rahul: Definitely, Riya! Can't wait to spend time with you and learn together. Kal milte hain.
+Riya: Great! See you tomorrow then, Rahul. Good night.
+Rahul: Good night, Riya. Sweet dreams.
